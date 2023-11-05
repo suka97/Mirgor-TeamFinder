@@ -1,7 +1,7 @@
 {
     "manifest_version": 3,
-    "name": "Mirgor Team Finder",
-    "version": "1.0.0",
+    "name": "Team Finder",
+    "version": "1.0.1",
     "icons": {
         "128": "icon128.png"
     },

@@ -35,6 +35,7 @@ chrome.storage.sync.get(
             team.found.forEach(user => {
                 text += "\n\t" + user;
             })
+            text += "\n";
         })
         console.log(text);
         alert(text);
